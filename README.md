@@ -5,4 +5,4 @@ I'm a Student at University of Bologna majoring in Computer Science and Engineer
 
 ##🏅 Top Languages
 
-![TopLanguages](https://github-readme-stats.vercel.app/api?username=MattechIT)]
+![TopLanguages](https://github-readme-stats.vercel.app/api?username=MattechIT)
