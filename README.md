@@ -5,4 +5,4 @@ I'm a Student at [University of Bologna](https://www.unibo.it/) 🎓 majoring in
 
 ## 🏅 Top Languages
 
-![TopLanguages](https://github-readme-stats.vercel.app/api?username=MattechIT)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MattechIT&layout=compact)
