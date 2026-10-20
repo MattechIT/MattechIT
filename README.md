@@ -1,7 +1,7 @@
 # Hi there, I'm Matteo 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/todeschi-matteo)[cite: 1]
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:matteo.todeschi04@gmail.com)[cite: 1]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/todeschi-matteo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:matteo.todeschi04@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/MattechIT/MattechIT/main/todeschi_matteo_cv.pdf)
 
 ## 👤 About Me
