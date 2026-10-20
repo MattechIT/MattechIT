@@ -5,7 +5,7 @@
 - 🚀 Currently pursuing my **M.Sc. in Computer Science and Engineering** at UniBo (Cesena Campus).
 - 🔬 Applied research experience on the EU Horizon Europe **eBRT2030** project (distributed microservices & real-time digital twins).
 
-📄 **[Download my Resume (PDF)](todeschi_matteo_cv.pdf)**
+📄 **[Download my Resume (PDF)](https://raw.githubusercontent.com/MattechIT/MattechIT/main/todeschi_matteo_cv.pdf)**
 
 ## 🏅 Top Languages
 
